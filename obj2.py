@@ -22,7 +22,6 @@ rifle = Gun("P90")
 
 
 rifle.guntype()
-rifle.reload()
 rifle.fire()  
 rifle.fire()
 rifle.fire()
@@ -35,6 +34,7 @@ rifle.fire()
 rifle.fire()
 rifle.fire()
 rifle.fire()
+rifle.reload()
 rifle.reload()
     
         
